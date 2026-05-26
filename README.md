@@ -88,3 +88,4 @@ diabetes-predictor/
 - This project is for educational purposes only.
 - It is not a medical diagnosis tool.
 - If `diabetes_model.pkl` is missing, run `python diabetes_model.py` first.
+# Diabetics-prediction-system
